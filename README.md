@@ -1,12 +1,12 @@
 Custom HTTP Command And Control
 
-Usage:
+## Usage:
+
+### Start C2
 python3 command-center/index.py
 
-Custom commands:
-
-# List sessions
+#### List sessions
 :sessions
 
-# Change session
+### Change session
 :s beacon_name
