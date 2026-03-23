@@ -3,7 +3,7 @@ Custom HTTP Command And Control
 ## Usage:
 
 ### Start C2
-python3 command-center/index.py
+python3 index.py
 
 #### List sessions
 :sessions
